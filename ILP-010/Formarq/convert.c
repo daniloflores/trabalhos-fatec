@@ -7,6 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 void unixdos (char *docent, char *docsai, FILE *ent, FILE *sai, char *arg){
 	int i, ch;
 
